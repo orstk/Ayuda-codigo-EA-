@@ -1,2 +1,2 @@
 # Ayuda-codigo-EA-
-Codigo EA usando los indicadores RSI, Stochastic, y ADX
+Codigo EA usando los indicadores MACD, RSI, Stochastic, y ADX
